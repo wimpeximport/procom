@@ -17,5 +17,15 @@
 - Acesso via ssh pi@seu ip configurado, após isto ele vai solicitar uma senha que é: rsrdata
 - Acesso via MOBAXTERM :
 
+• MobaXterm permite que você inicie sessões remotas. Você só precisa clicar no botão "Sessão" para iniciar uma nova sessão.
+
 ![image](https://github.com/wimpeximport/procom/assets/171712821/2bdfe716-6a7e-4c33-a3e5-c75ad88904fb)
 
+• Você pode editar, excluir, mover, importar ou exportar sessões clicando com o botão direito do mouse nelas na barra lateral esquerda do MobaXterm. Você também pode criar um atalho da área de trabalho para iniciar automaticamente uma sessão ou um grupo de sessões na inicialização do MobaXterm. 
+Clicar com o botão direito do mouse em uma pasta de sessão permite que você inicie várias sessões de uma só vez. Pode ser muito útil quando você costuma trabalhar usando o mesmo ambiente e as mesmas sessões abertas.
+
+![image](https://github.com/wimpeximport/procom/assets/171712821/c9b16c17-8381-46a8-b8dc-5e8d823ee241)
+
+Remote host:		IP-address VoIP-Com device \
+Specify username:	pi \
+Password:		rsrdata
