@@ -10,3 +10,4 @@
 
 1. Programa para acesso via SSH do sistema operaciol via rede TCP/IP link para dowload [MOBAXTERM](https://mobaxterm.mobatek.net/download-home-edition.html).
 2. Programa para criar o Pendrive ou SD Card com o sistema operacional [RUFUS](https://rufus.ie/pt_BR/#google_vignette).
+3. Imagem do sistema operasional [WPS_OS](https://1drv.ms/u/s!ArXeMgbVkP2fjcxO2JgwmqkT7-udeA?e=cuUdl5)
