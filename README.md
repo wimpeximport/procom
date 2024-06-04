@@ -14,4 +14,4 @@
 
 ###### Login de acesso ao sistema operacional.
 
-- aaaa 
+- Acesso via ssh pi@seu ip configurado, após isto ele vai solicitar uma senha que é: rsrdata
