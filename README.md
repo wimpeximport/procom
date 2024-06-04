@@ -15,3 +15,7 @@
 ###### Login de acesso ao sistema operacional.
 
 - Acesso via ssh pi@seu ip configurado, após isto ele vai solicitar uma senha que é: rsrdata
+- Acesso via MOBAXTERM :
+
+![image](https://github.com/wimpeximport/procom/assets/171712821/2bdfe716-6a7e-4c33-a3e5-c75ad88904fb)
+
