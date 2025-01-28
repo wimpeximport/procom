@@ -49,20 +49,20 @@ cd /home/procom/bin
 
 • Após executar o comando adequado ao seu equipamento vai aparecer na tela as seguintes opções de configuração:
 
-1º - Menu
-Tipo de hardware (opção 1): digite 1 
+1º - Menu.\
+Tipo de hardware (opção 1): digite 1.
 
-2º - Menu
-Número de interfaces de hardware suportadas (opção: 1):1 (para equipamentos sem amplificador embarcado) ou 2 (para equipamentos com amplificador embarcado)
+2º - Menu.\
+Número de interfaces de hardware suportadas (opção: 1):1 (para equipamentos sem amplificador embarcado) ou 2 (para equipamentos com amplificador embarcado).
 
-3º - Menu
-Opção bitfield (hex): deixe vazio e precione enter no teclado
+3º - Menu.\
+Opção bitfield (hex): deixe vazio e precione enter no teclado.
 
 • Após este ultimo menu vai aparecer na tela a seguinte informação:
 
-Hardware Serial No:
-ser:xxxxxxxxx
-enc-lic:UkUoe1hxDjRLS300I0lfQSVulumII3tGUD4=
+Hardware Serial No:\
+ser:xxxxxxxxx\
+enc-lic:UkUoe1hxDjRLS300I0lfQSVulumII3tGUD4=\
 **** Estes numeros é só uma referencia para documentação ********
 
 • Copie o numero da licença e acesse a interface web do dispositivo desta forma
